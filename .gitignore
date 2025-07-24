@@ -1,0 +1,51 @@
+.hive-mind/
+localtests/
+package.json
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+mcp-chromautomation
+
+# Test binary, build with `go test -c`
+*.test
+
+# Go workspace file
+go.work
+
+# Build directory
+build/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Coverage files
+*.out
+coverage.html
+
+# Database files
+*.db
+*.sqlite
+
+# Screenshots directory
+screenshots/
+
+# Node modules (if any)
+node_modules/
+
+# Local development files
+.env
+.env.local
+
+# User data directory
+.mcp-chromautomation/
