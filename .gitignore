@@ -49,3 +49,5 @@ node_modules/
 
 # User data directory
 .mcp-chromautomation/
+# Added by goreleaser init:
+dist/
